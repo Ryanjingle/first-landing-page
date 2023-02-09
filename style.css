@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-container {
+    display: flex;
+}
+
+.nav-container div {
+    flex: 1;
+    height: 40px;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 30px;
+    font-family: 'Lato';
+}
+
+.nav-container 
+.header {
+    flex: 6;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 28px;
+    font-size: 38px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid black;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    opacity: 60%;
+}
