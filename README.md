@@ -1,2 +1,2 @@
 # first-landing-page
-side project testing what I've learning in CSS
+odin project on what I've learned in CSS and HTML
